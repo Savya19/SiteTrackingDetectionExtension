@@ -1,0 +1,5 @@
+Site Tracker Detector Extension Privacy Policy
+
+This browser extension does not collect, store, or transmit any personal data from users. All detection of trackers is performed locally on your device. No information about your browsing activity is sent to any server or third party.
+
+If you have any questions or concerns, please contact the developer.

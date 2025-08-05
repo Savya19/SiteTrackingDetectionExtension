@@ -1,0 +1,38 @@
+{
+  "Advertising": {
+    "Google Ads": {
+      "displayName": "Google Ads",
+      "domains": ["doubleclick.net", "adservice.google.com"]
+    },
+    "Criteo": {
+      "displayName": "Criteo",
+      "domains": ["criteo.com"]
+    }
+  },
+  "Analytics": {
+    "Google Analytics": {
+      "displayName": "Google Analytics",
+      "domains": ["google-analytics.com"]
+    },
+    "ScorecardResearch": {
+      "displayName": "ScorecardResearch",
+      "domains": ["scorecardresearch.com"]
+    },
+    "Quantcast": {
+      "displayName": "Quantcast",
+      "domains": ["quantserve.com"]
+    }
+  },
+  "Social": {
+    "Facebook": {
+      "displayName": "Facebook",
+      "domains": ["facebook.com", "facebook.net"]
+    }
+  },
+  "Tag Manager": {
+    "Google Tag Manager": {
+      "displayName": "Google Tag Manager",
+      "domains": ["googletagmanager.com"]
+    }
+  }
+} 
