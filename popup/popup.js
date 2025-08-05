@@ -1,4 +1,4 @@
-// Minimal popup logic to show trackers for current site
+
 function getCurrentTabOrigin(callback) {
   chrome.tabs.query({ active: true, currentWindow: true }, function(tabs) {
     if (tabs[0] && tabs[0].url) {
@@ -9,7 +9,7 @@ function getCurrentTabOrigin(callback) {
 }
 
 document.addEventListener('DOMContentLoaded', function() {
-  // Add clear history button handler
+  
   const clearBtn = document.getElementById('clear-history-btn');
   if (clearBtn) {
     clearBtn.addEventListener('click', function() {
